@@ -76,7 +76,7 @@ Los layouts de un sitio web, como estructura, son importantes ya que hacen refer
 ----------
 
 
-Los tipos más comunes de paginas web son:
+## Los tipos más comunes de paginas web son:
 #### Blog:
 - Tipo de diario digital en el cual un autor escribe articulos
 - El layout usado por estas paginas suele ser de una columna, para la pagina de inicio, y de dos columnas para articulos.
