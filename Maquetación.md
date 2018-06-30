@@ -1,6 +1,6 @@
-#Idea a la maqueta
+# Idea a la maqueta
 
-####Objetivos comerciales
+#### Objetivos comerciales
    Requisitos:
     - Clasificacion y jerarquia
     - Etiquetar la informacion
@@ -10,7 +10,7 @@
 ----------
 
  
-####Experiencia de usuario (UX)
+#### Experiencia de usuario (UX)
    Es el proceso de entender como las personas van a interactuar con un producto o servicio, haran de producto, el "gran producto".
 
  - Necesidades del usuario
@@ -20,7 +20,7 @@
 ----------
 
 
-####Interfaz de usuario (UI)
+#### Interfaz de usuario (UI)
    Es una vista que permite al usuario interactuar de manera efectiva con un sistema
 
  **¿Que contiene una UI?**
@@ -36,13 +36,13 @@
 
 
 
-#Representaciones visuales:
+# Representaciones visuales:
 
-##Baja fidelidad
-####Sketch: 
+## Baja fidelidad
+#### Sketch: 
 - Representacion en papel de una pagina web o app
 - Es la forma mas rapida de visualizar una pagina web
-####Wireframe:
+#### Wireframe:
 - Es equivalente a un esqueleto de una web o aplicacion
 - Es usado para describir estructura, contenidos y caracteristicas de una web o app
 - No contiene diseño
@@ -50,16 +50,16 @@
 ----------
 
 
-##Media fidelidad
-####Mockup:
+## Media fidelidad
+#### Mockup:
 - Representacion con diseño de una pagina web
 - Junta todas las caracteristicas de una wireframes, con caracteristicas propias de un diseño visual (colores, fuestes, imagenes, logos, iconos, etc)
 
 ----------
 
 
-##Alta fidelidad
-####Prototipo:
+## Alta fidelidad
+#### Prototipo:
 - Ofrese una representacion de alta fidelidad de una pagina web o app
 - Es un Mockup enriquecido conpiezas de exp de usuario como interacciones y animaciones
 
@@ -67,7 +67,7 @@
 
 
 
-#Layout y tipos de sitio web
+# Layout y tipos de sitio web
 
 Los layouts de un sitio web, como estructura, son importantes ya que hacen referencia a como se dispondra la informacion dentro de una pagina
 
@@ -75,33 +75,33 @@ Los layouts de un sitio web, como estructura, son importantes ya que hacen refer
 
 
 Los tipos más comunes de paginas web son:
-####Blog:
+#### Blog:
 - Tipo de diario digital en el cual un autor escribe articulos
 - El layout usado por estas paginas suele ser de una columna, para la pagina de inicio, y de dos columnas para articulos.
-####Comunidad:
+#### Comunidad:
 - Son plataformas difitales diseñadas para que las personas se comuniquen con otras con intereses similares
 - El layout de estas paginas varia entre 2 o 3 columnas (fb, twitter, youtube)
-####E-commerce:
+#### E-commerce:
 - Son tiendas en linea en las cuales se pueden comprar productos o servicios
 - El layout, por lo general es de 2 o 3 columnas (amazon)
-####Magazine:
+#### Magazine:
 - Revistas digitales muy similares a un blog
 - Tienen un enfoque mas serio y profesional
 - Los layout son parecidos a los del blog, de 1 columna para el home page y de 2 para las paginas de articulos
-####Portal:
+#### Portal:
 - Son puertas a otros contenidos, y por lo general, su contenido es muy diverso.
 - Su layout depedera de la relevancia de su contenido (emol)
-####Portafolio:
+#### Portafolio:
 - Muestran una serie de trabajos relacionados a un profesional
 - El layout de estas paginas varian de 1 a 2 paginas
-####Corporativo:
+#### Corporativo:
 - Sitios enfocados a la marca que representan
 - Sus layout dependeran de la informacion que quieran comunicar, por lo general tienen 1 a 2 columnas (cencosud)
 
 ----------
 
 
-#¿Que es la maquetacion web?
+# ¿Que es la maquetacion web?
 Es las traduccion en codigo de una representacion visual.
 
 - Repretantar la marca de la persona dueña de la pagina
@@ -111,8 +111,8 @@ Es las traduccion en codigo de una representacion visual.
 ----------
 
 
-##Para maquetar necesitaremos:
-####Entender el diseño y requerimientos de la pagina web:
+## Para maquetar necesitaremos:
+#### Entender el diseño y requerimientos de la pagina web:
 - Conocer los tamaños y dimensiones de la pagina web
 - Reconocer las funcionalidades que contiene la pagina web
 - Entender como se comportara la layout en diferentes dispositivos
@@ -120,7 +120,7 @@ Es las traduccion en codigo de una representacion visual.
 
 ----------
 
-####Recopilar y organizar los requerimientos de la web:
+#### Recopilar y organizar los requerimientos de la web:
 
 Listar los requerimientos visuales y de contenido de una web:
 
@@ -139,7 +139,7 @@ Listar los requerimientos visuales y de contenido de una web:
 
 ----------
 
-####Aplicar el diseño y los requerimientos de la pagina web en codigo:
+#### Aplicar el diseño y los requerimientos de la pagina web en codigo:
 
 Para aplicar el diseño debemos:
 
