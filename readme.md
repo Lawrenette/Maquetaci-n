@@ -1,7 +1,9 @@
 # Idea a la maqueta
 
 #### Objetivos comerciales
+
    Requisitos:
+   
     - Clasificacion y jerarquia
     - Etiquetar la informacion
     - Crear navegacion del sitio
